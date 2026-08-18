@@ -1,5 +1,3 @@
-# Conflict Practice
-
 ## Tools I Use
 
 - Cursor for editing
